@@ -5,15 +5,15 @@
 (generate_opam_files true)
 
 (source
- (github username/reponame))
+ (github fstiffo/aoc-2022-ocaml))
 
-(authors "Author Name")
+(authors "Francesco Stiffoni")
 
-(maintainers "Maintainer Name")
+(maintainers "")
 
-(license LICENSE)
+(license MIT)
 
-(documentation https://url/to/documentation)
+(documentation https://github.com/fstiffo/aoc-2022-ocaml)
 
 (package
  (name aoc2022)
